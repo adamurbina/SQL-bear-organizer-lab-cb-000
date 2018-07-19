@@ -1,12 +1,3 @@
--- INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES("Mr Chocolate", 12, "M", "brown", "happy", 1);
--- INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES("Rowdy", 12, "M", "brown", "happy", 1);
--- INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES("Tabitha", 12, "M", "brown", "happy", 1);
--- INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES("Sergeant Brown", 12, "M", "brown", "happy", 1);
--- INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES("Melissa", 12, "M", "brown", "happy", 1);
--- INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES("Grinch", 12, "M", "brown", "happy", 1);
--- INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES("Wendy", 12, "M", "brown", "happy", 1);
--- INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES(NULL, 12, "M", "brown", "happy", 1);
-
 INSERT INTO bears (id, name, age, gender, color, temperament, alive) VALUES
 (1,"Mr. Chocolate", 20, "M", "dark brown", "calm", 0),
 (2,"Rowdy", 10, "M", "black", "intense", 1),
